@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is the file where we will store the configuration details
+=======
+this is for conflict 
+>>>>>>> 2e37dcf8831d2e78f9c545fc88d5d0e3fe720ce2
 
